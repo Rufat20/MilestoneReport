@@ -1,5 +1,5 @@
 # MilestoneReport
-The goal of this project is just to display that you've gotten used to working with the data and that you are on track to create your prediction algorithm.
+The goal of this project is just to display that you've gotten used to working with the data and that you are on track to create your prediction algorithm. Please open [this Github link](https://rufat20.github.io/MilestoneReport/) to show a milestone report as a html file.
 
 ## Review criteria
   1. Does the link lead to an HTML page describing the exploratory analysis of the training data set?
